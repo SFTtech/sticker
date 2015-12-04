@@ -12,7 +12,11 @@ These stickers will warn innocent bystanders not to go
 near your device or even use it without taking the necessary
 precautions. [Because safety counts!](../sicher)
 
-Note: This is a draft which has not been re-viewed by a Druckereiexperte.
+
+### Printing
+
+size: 105 × 35 mm
+3mm bleed on each side additional to the size.
 
 
 ### License

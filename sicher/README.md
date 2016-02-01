@@ -10,7 +10,7 @@ Your thing is then certified and got 5 out of 5 stars!
 
 #### Print details
 
-These stickers have the format `72cm * 35cm`, in CMYK colors.
+These stickers have the format `72mm * 35mm`, in CMYK colors.
 Both versions have a `3mm` bleed on each side ("should be cut off").
 
 The uv varnish ("uvlack") version contains a 5th pseudo-color named "lack",

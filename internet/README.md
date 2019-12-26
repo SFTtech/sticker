@@ -15,9 +15,13 @@ precautions. [Because safety counts!](../sicher)
 
 ### Printing
 
+internetwarning.pdf
 size: 105 × 35 mm
 3mm bleed on each side additional to the size.
 
+internetwarning-ng.pdf
+size: 72 × 35 mm
+3mm bleed on each side additional to the size.
 
 ### License
 

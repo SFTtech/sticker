@@ -11,3 +11,4 @@ A collection of printworthy stickers.
 * [Device bends space and time](spacetime/)
 * [Device may irreversibly increase entropy in the universe](entropy/)
 * [Einmal mit Profis arbeiten](einmal/)
+* [Cybärangriff](cybaer/)

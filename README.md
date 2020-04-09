@@ -12,3 +12,6 @@ A collection of printworthy stickers.
 * [Device may irreversibly increase entropy in the universe](entropy/)
 * [Einmal mit Profis arbeiten](einmal/)
 * [Cybärangriff](cybaer/)
+* [Voll gut!](voll_gut/)
+* [If you break it, it's broken...](broken/)
+* [Device held together only by...](held_together/)

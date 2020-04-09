@@ -7,6 +7,7 @@ Then this sticker is for you to put on your builds/"_repairs_".
 
 And your thing is then certified and got 5 out of 5 TAPES!
 
+Don't understand german? [Then this may appeal to you](../held_together/).
 
 #### Print details
 

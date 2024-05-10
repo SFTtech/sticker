@@ -16,3 +16,5 @@ A collection of printworthy stickers.
 * [If you break it, it's broken...](broken/)
 * [Device held together only by...](held_together/)
 * [Prototype!](prototype/)
+* [Humane Generated Content](humane-generated-content/)
+* [Plug & Pray](plug-and-pray/)

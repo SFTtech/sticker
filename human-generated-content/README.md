@@ -1,6 +1,6 @@
-# Plug and Pray
+# Human Generated Content
 
-Uncertain functionality
+Handmade by natural intelligence - the new quality promise
 
 ### License
 

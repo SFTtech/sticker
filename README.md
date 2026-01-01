@@ -18,3 +18,4 @@ A collection of printworthy stickers.
 * [Prototype!](prototype/)
 * [Human Generated Content](human-generated-content/)
 * [Plug & Pray](plug-and-pray/)
+* [Bei Bedarf einfach ABSCHALTEN](abschalten/)
